@@ -152,10 +152,6 @@ class MyApp extends StatelessWidget {
 - `childSizeFactor`: A factor by which the size of the child widget will decrease as it moves. The value must be greater than 0.
 - `builder`: A builder function to customize the animated widget. It provides the context, animation, child widget, size, and target position.
 
-### Example
-
-The example above demonstrates how to animate a red box to the position of a blue box on the screen when the floating action button is pressed. The red box will also shrink in size as it moves.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
