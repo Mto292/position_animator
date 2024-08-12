@@ -10,10 +10,12 @@ A Flutter package that allows you to animate the movement of a widget from its c
 - Optionally resize the widget as it moves.
 - Use a custom builder to define how the widget is animated.
 
-![1](https://github.com/user-attachments/assets/124dbdda-0488-4727-b994-d91688ba4c99)
-![2](https://github.com/user-attachments/assets/e1a36093-cc17-4ef0-8a54-2ba93cef1705)
-![3](https://github.com/user-attachments/assets/743f9a71-46ad-4e61-bedc-2d5c2df26550)
-![4](https://github.com/user-attachments/assets/b4634bd1-0c75-4ea5-a775-d45384fe5105)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/124dbdda-0488-4727-b994-d91688ba4c99" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e1a36093-cc17-4ef0-8a54-2ba93cef1705" width="200"/>
+  <img src="https://github.com/user-attachments/assets/743f9a71-46ad-4e61-bedc-2d5c2df26550" width="200"/>
+  <img src="https://github.com/user-attachments/assets/b4634bd1-0c75-4ea5-a775-d45384fe5105" width="200"/>
+</p>
 
 ## Getting Started
 
